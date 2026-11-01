@@ -38,15 +38,3 @@ Trang tổng hợp portfolio của 6 thành viên Nhóm 10, làm bằng HTML, CS
 
 Mở `index.html` bằng trình duyệt là dùng được, không cần cài đặt hay build.
 
-## Cập nhật link portfolio
-
-Mở `index.html`, tìm thẻ của thành viên cần cập nhật và điền đường dẫn vào thuộc tính `href` của thẻ `<a class="portfolio-link">`. Nhãn "Sắp cập nhật" tự đổi thành "Khám phá portfolio" và nút tự bấm được, không cần sửa gì thêm.
-
-```html
-<a class="portfolio-link" href="https://ten-ban.github.io/portfolio/" ...>
-```
-
-## Lưu ý
-
-- Font **Be Vietnam Pro** tải từ Google Fonts. Khi không có mạng, trang tự dùng Segoe UI hoặc Arial.
-- Ảnh nền được tải từ postimg.cc, nên cần mạng để hiện ảnh. Không có mạng thì chỉ mất ảnh nền, phần còn lại vẫn chạy bình thường.
