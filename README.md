@@ -7,7 +7,7 @@ Trang tổng hợp portfolio của 6 thành viên Nhóm 10, làm bằng HTML, CS
 | # | Họ tên | Portfolio |
 |---|--------|-----------|
 | 1 | Chúc Mạnh Cường | [Xem](https://manhcuong150206.github.io/portfolio/) |
-| 2 | Nguyễn Minh Nhựt | Sắp cập nhật |
+| 2 | Nguyễn Minh Nhựt | [xem](https://nmnhut0310.github.io/Minh-Nhut/) |
 | 3 | Nguyễn Đức Phát | [Xem](https://phatnd8119-bit.github.io/portfoliocv/) |
 | 4 | Mai Đàm Công Thành | [Xem](https://subsetjury.github.io/portfo/) |
 | 5 | Nguyễn Duy Thuần | [Xem](https://thuannd1205-cmd.github.io/PORTFOLIO/) |
